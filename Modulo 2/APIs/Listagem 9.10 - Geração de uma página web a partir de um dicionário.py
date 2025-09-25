@@ -1,13 +1,15 @@
 filmes={
-    "drama": ["Ainda Estou Aqui","O Poderoso Chefão", "Ela"],
-    "comédia": ["Tempos Modernos","American Pie","Dr. Dolittle"],
-    "policial": ["O Exterminador do Futuro","O Procurado","Velozes e Furiosos"],
-    "guerra": ["Rambo","1917","Até o Último Homem"],
-    "ação": ["Tropa de elite","Infiltrado"],
-    "terror":["Corra","Invocação do mal"],
+    "drama": ["Ainda Estou Aqui","O Poderoso Chefão", "Ela","A viagem","O jardim secreto"],
+    "comédia": ["Tempos Modernos","American Pie","Dr. Dolittle","Barbie","Anos 90"],
+    "policial": ["O Exterminador do Futuro","O Procurado","Velozes e Furiosos","Infiltrado","Anonimo"],
+    "guerra": ["Rambo","1917","Até o Último Homem","Munique","Rambo"],
+    "ação": ["Tropa de elite","Infiltrado","Matrix","Batman","Missão impossível"],
+    "terror":["Medo profundo","Invocação do mal","Annabelle","Corra","Panico"],
     "doramas":["Pousando no amor","Sorriso real","All of Us Are Dead","Pretendente surpresa","My Demon"],
     "animes":["Evangelion", "One Piece","Dragon ball","JoJo's","Haikyuu"],
-    "Drama":["Grey's anatomy","Tomboy","The mirror","Magnolia","O jardim secreto"]
+    "fantasia":["Narnia","O Hobbit","O senhor dos aneis","O sétimo filho","O magico de Oz"],
+    "romance":["Sr. & Sra. Smith","Os agentes do destino","Amor de aluguel","A Bela e a Fera","Aladdin"]
+    
     
 }
 página=open("filmes.html","w", encoding="utf-8")
