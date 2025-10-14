@@ -17,7 +17,7 @@ estoque =  { "colar": [ 1000, 2.30],
 "chave":[400,2.1],
 "aretes":[6000,2.7],
 "boligrafos":[100,2.3],
-"cucharra":[2000,1.2] }
+"cuchara":[2000,1.2] }
 
 
 produto = input("Digite o produto: ")
